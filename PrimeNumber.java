@@ -22,6 +22,6 @@ public class PrimeNumber {
 			   if(flag==0)  { System.out.println(n+" is prime number"); }  
 		  }//en
 	}
-
+hgfggjggj
 }
 
