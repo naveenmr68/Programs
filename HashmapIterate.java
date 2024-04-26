@@ -6,7 +6,9 @@ public class HashmapIterate {
 		// TODO Auto-generated method stub
 
 		
-		chvcghh
+	cfyfhgytgy
+	dtfhg
+	fgfhgf
 	}
 
 }
